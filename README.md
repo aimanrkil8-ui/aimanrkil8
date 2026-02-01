@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Management+Information+Systems+Student;Java+%7C+Spring+Boot+%7C+Data+Analysis;Building+Real+World+Systems;From+Sudan+to+Global+Tech&center=true&width=600&height=45">
 </p>
 
----
 
 ## 👨‍💻 About Me
 
